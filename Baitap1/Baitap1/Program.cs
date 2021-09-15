@@ -9,6 +9,7 @@ namespace Baitap1
             Console.WriteLine("Nhap vao ten ban:");
             string ten = Console.ReadLine();
             Console.Write("Xin chao " + ten);
+            // đã chỉnh sửa
         }
     }
 }
